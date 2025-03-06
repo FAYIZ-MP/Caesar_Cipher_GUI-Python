@@ -53,7 +53,7 @@ python caesar_cipher_gui.py
 This project is **open-source**. You are free to use and modify it as needed.
 
 ## Author
-Developed by **Fayiz M P** 🚀
+Developed by **Fayiz M P** 
 
 ## GitHub Repository
 [GitHub Link](https://github.com/FAYIZ-MP/PRODIGY_CS_01)
