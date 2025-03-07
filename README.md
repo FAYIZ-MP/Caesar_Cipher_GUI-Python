@@ -1,4 +1,4 @@
-# Caesar Cipher GUI - Python
+# 🔐Caesar Cipher GUI - Python
 
 ## Overview
 This is a **Caesar Cipher GUI** application built using **Python and Tkinter**. It allows users to encrypt and decrypt text using the **Caesar Cipher algorithm** with a specified shift value.
@@ -46,7 +46,7 @@ python caesar_cipher_gui.py
 - Shift: `3`
 - Output: `Hello World`
 
-## Screenshot
+## 🖼️Screenshot
 ![Caesar Cipher GUI](screenshot.png)
 
 ## 📜 License
