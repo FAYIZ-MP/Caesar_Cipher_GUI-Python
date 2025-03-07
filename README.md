@@ -49,8 +49,12 @@ python caesar_cipher_gui.py
 ## Screenshot
 ![Caesar Cipher GUI](screenshot.png)
 
+## 📜 License
+Licensed under the **MIT License**.
+
 ## 👨‍💻 About the Developer
 Developed by **Fayiz M P**, a passionate **Cybersecurity Engineer & Developer** focused on creating secure and innovative applications.
 
 🔗 [LinkedIn]www.linkedin.com/in/fayiz-m-p-361228295 | [GitHub]https://github.com/FAYIZ-MP
+
 
