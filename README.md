@@ -46,7 +46,7 @@ python caesar_cipher_gui.py
 - Shift: `3`
 - Output: `Hello World`
 
-## 🖼️Screenshot
+## 🖼️Preview
 ![Caesar Cipher GUI](screenshot.png)
 
 ## 📜 License
