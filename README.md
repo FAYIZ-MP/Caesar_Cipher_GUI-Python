@@ -49,9 +49,6 @@ python caesar_cipher_gui.py
 ## Screenshot
 ![Caesar Cipher GUI](screenshot.png)
 
-## License
-This project is **open-source**. You are free to use and modify it as needed.
-
 ## Author
 Developed by **Fayiz M P** 
 
