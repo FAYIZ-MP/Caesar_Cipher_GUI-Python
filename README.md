@@ -19,7 +19,7 @@ Ensure you have Python installed. The application uses:
 ### 1. Clone or Download the Project
 ```bash
 git clone https://github.com/FAYIZ-MP/PRODIGY_CS_01.git
-cd PRODIGY_CS_01
+cd caesar-cipher
 ```
 
 ### 2. Run the Program
